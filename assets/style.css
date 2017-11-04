@@ -92,6 +92,7 @@
 				color: #777777;
 				float:left;
 				margin-left: 15px;
+
 	 }
 
 	 #tealbox {background-color: #4aaaa5;
@@ -114,12 +115,10 @@
 	}
 
 
-	img {width: 100px;
-		height: 90px}
-
 	table { background-color: #ffffff;
 			width:560px;
-			margin-right: 60px;}
+			margin-right: 200px;
+			}
 
 	
 
